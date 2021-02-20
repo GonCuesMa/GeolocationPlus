@@ -20,7 +20,7 @@ Allows administrative users to save geolocation data for an individual item. The
 
 ### Bounding Box Area
 
-**Plugin used**: [Leaflet Draw](http://leaflet.github.io/Leaflet.draw/docs/leaflet-draw-latest.html)
+**Plugin**: [Leaflet Draw](https://github.com/Leaflet/Leaflet)
 
 ![BBox-conf](./md-img/bbox.png)
 
