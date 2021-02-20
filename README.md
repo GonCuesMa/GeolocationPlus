@@ -8,9 +8,11 @@ Allows administrative users to save geolocation data for an individual item. The
 
 ## Installation
 
-1. Copy the Geolocation folder into the "plugins" folder of the root Omeka installation. (see [Installing a Plugin](https://omeka.org/classic/docs/Admin/Adding_and_Managing_Plugins/))
+1. [Download](https://github.com/GonCuesMa/GeolocationPlus/archive/main.zip), uncompress files and rename plugin folder "Geolocation".
 
-2. In the Omeka administrative interface, click on the "Settings" button at the top right of the screen, go to the "Plugins" tab, and click the "Install" button next to the listing for Geolocation.
+2. Copy the Geolocation folder into the "plugins" folder of the root Omeka installation. (see [Installing a Plugin](https://omeka.org/classic/docs/Admin/Adding_and_Managing_Plugins/))
+
+3. In the Omeka administrative interface, click on the "Settings" button at the top right of the screen, go to the "Plugins" tab, and click the "Install" button next to the listing for Geolocation.
 
 -----
 

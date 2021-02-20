@@ -1,6 +1,6 @@
 <?php
 
-class GeolocationPlugin extends Omeka_Plugin_AbstractPlugin
+class GeolocationPlusPlugin extends Omeka_Plugin_AbstractPlugin
 {
     const DEFAULT_LOCATIONS_PER_PAGE = 10;
     const DEFAULT_BASEMAP = 'CartoDB.Voyager';
